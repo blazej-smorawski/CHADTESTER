@@ -28,6 +28,6 @@ def check_question(data, index, succes_rate, left):
     else:
         message_dialog(
             title="Źle!",
-            text=data[index].q + " " + gs,
+            text="Poprawna odpowiedź: " + data[index].q + " " + gs,
         ).run()
         return 0
