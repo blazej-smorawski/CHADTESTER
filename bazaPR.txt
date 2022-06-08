@@ -282,3 +282,121 @@ Ważona liczba procesów oczekujących w kolejce do zasobów
 Ważona liczba procesów w kolejce procesów aktywnych
 Ilość otwartych połączeń internetowych
 c
+
+Poprawność aplikacji współbieżnej wykazujemy:
+5
+Empirycznie: 'patrzcie, to działa'
+Znajdując scenariusz pokazujący niewłaściwą realizację zadań
+Testując właściwą realizację zadań (operacji) dla zadanych scenariuszy
+Przeprowadzając dowód teoretyczny
+Stwierdzając, że składa się z wielu procesów bez wyspecyfikowanych zależności czasowych
+d
+
+Semafor uogólniony:
+5
+W założeniu przyjmuje wartości całkowite dodatnie, oraz zero gdy jest opuszczony
+Na podstawie jego wartości aplikacja określa jego stan i zatrzymuje się bądź nie
+Operacje podnoszenia i opuszczania nie są dla niego atomowe
+Można go wykorzystywać do kontroli dostępu do sekcji krytycznej
+Wszystkie odpowiedzi są błędne
+d
+
+Lokalny brak żywotności (livelock):
+5
+Polega na głodzeniu części procesów, może być stwierdzony poprzez testowanie
+Może być zidentyfikowany jedynie na podstawie rozważań teoretycznych
+Jeżeli aplikacja jest niepoprawna, to wystąpi w skończonym czasie
+Występuje gdy dwa lub więcej procesów wejdzie do sekcji krytycznej jednocześnie
+Powoduje czasowe zatrzymanie określonej części aplikacji
+b
+
+Środowisko LINDA
+5
+Implementuje koncepcję semafora w procedurach monitorowych
+Jest ortogonalne względem języków programowania
+Jest wbudowane w język C++
+Jest wbudowane w język C
+Dostarcza blokujących i nieblokujących operacji na przestrzeni krotek
+b e
+
+Problemy: czytelników-pisarzy oraz producentówkonsumentów:
+5
+Są tym samym problemem, różnica jest jedynie w nazwie
+Żadna z odpowiedzi nie jest poprawna
+Mogą być realizowane poprawnie przy pomocy semaforów lub monitorów
+Problemy te nie dotyczą zagadnień związanych z tematyką przedmiotu
+Nie mogą być realizowane w środowisku LINDA
+c
+
+Sekcja krytyczna to:
+5
+Kółko literackie na ZIE
+Żadna z odpowiedzi nie jest poprawna
+Grupa punkrockowa na ETI
+Ostatnie rzędy autytorium (tzw. loża szyderców)
+Dowolny współbieżnie wykonywany fragment kodu
+b
+
+Monitory w zestawieniu z semaforami:
+5
+Są wygodniejsze w stosowaniu i zapewniają wyższą efektywność aplikacji
+Mogą powodować wstrzymywanie procesów z powodów niezwiązanych z specyfikacjami
+Są niepraktyczne, ze względu na skomplikowaną implementację operacji wykluczających
+Występują w klasycznym (czystym) języku C
+Żadna z odpowiedzi nie jest prawdziwa
+b
+
+Program rozproszony jest poprawny, gdy:
+5
+Wszystkie procesy działają zgodnie z specyfikacjami
+Nie można w praktyce pokazać żadnego błędnego scenariusza wykonania
+Realizuje w sposób właściwy zadane operacje dla zadanych scenariuszy,
+Wszystkie odpowiedzi są niepoprawne
+Posiada poprawne mechanizmy synchronizacji przy wejściu do sekcji krytycznej
+d
+
+Monitory:
+5
+Procedura wait może być wykonywana tylko po sprawdzeniu określonego warunku stanu
+Są mniej efektywne wydajnościowo w implementacji w porównaniu z semaforami
+Jeżeli proces rozpocznie procedurę monitora to ją zakończy w skończonym czasie
+To obiekty pasywne, eksportują procedury, które mogą być wykonywane jednocześnie
+Nie posiadają stanu (zmiennych), dostarczają tylko współdzielonych procedur
+b
+
+Semafor binarny:
+6
+Wielokrotne podnoszenie gdy jest podniesiony generuje stan nieustalony semafora
+Przyjmuje wartości całkowite dodatnie, oraz zero gdy jest opuszczony
+Można go podnosić wielokrotnie gdy jest podniesiony
+Nie można go wykorzystywać do kontroli wejścia do sekcji krytycznej
+Operacje podnoszenia i opuszczania są dla niego atomowe
+Można go podnosić gdy jest opuszczony
+c e f
+
+Procesy w środowisku LINDA synchronizują się:
+5
+Procesy są całkowicie niezależne i mogą być synchronizowane jedynie przez proces zarządcy
+Poprzez wstawianie i pobieranie krotek do/z przestrzeni krotek oraz przez komunikaty
+Nie mogą się synchronizować z natury stosowanych mechanizmów
+Poprzez wstawianie i pobieranie krotek z przestrzeni krotek
+Poprzez komunikaty: proces wysyła komunikat, który może ewentualnie być odebrany
+d
+
+Globalny brak żywotności (deadlock):
+5
+Ma miejsce, gdy proces zatrzymuje się w sekcji krytycznej
+Jest nie do wykrycia przez procesy będące częścią aplikacji rozproszonej.
+Nie wystąpi, o ile procesy poprawnie komunikują się między sobą
+To sytuacja, gdy procesy błędnie realizują swoje specyfikacje
+Polega na zaobserwowaniu zatrzymania pracy części procesów w aplikacji rozproszone
+b
+
+Instrukcje atomowe w przetwarzaniu współbieżnym:
+5
+Zakłada się ich istnienie na każdym poziomie abstrakcji
+Wszystkie wywołania procedur z poziomu niższego są atomowe
+Żadna z odpowiedzi nie jest poprawna
+Ich realizacja na poziomie niższym (np. systemowym) jest niepodzielna
+Polegają na jednoczesnej realizacji wykonania procedur krytycznych
+c
