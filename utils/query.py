@@ -10,17 +10,6 @@ def check_question(data, index, succes_rate, left):
         title=f"Pytanie: {index + 1}, wynik: {succes_rate:.2f}, pozostało: {left}",
         text=data[index].q,
         values=data[index].a,
-        style=Style.from_dict(
-            {
-                "dialog": "bg:#cdbbb3",
-                "button": "bg:#bf99a4",
-                "checkbox": "#e8612c",
-                "dialog.body": "bg:#a9cfd0",
-                "dialog shadow": "bg:#c98982",
-                "frame.label": "#fcaca3",
-                "dialog.body label": "#fd8bb6",
-            }
-        ),
         ok_text="Ok",
         cancel_text="Wyjdź",
     ).run()
