@@ -9,4 +9,4 @@
 
 ## Usage
 
-    python ./main.py database_file # AMAZING
+    python ./CHADTESTER.py database_file # AMAZING

@@ -5,7 +5,7 @@ from utils.query import check_question
 import sys
 
 if len(sys.argv) != 2:
-    print("Not enough arguments! Usage main.py database.")
+    print("Not enough arguments! Usage CHADTESTER.py database.")
     SystemExit()
 
 data = data_from_file(sys.argv[1])
