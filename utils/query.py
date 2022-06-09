@@ -6,8 +6,9 @@ from prompt_toolkit.styles import Style
 
 def check_question(data, index, succes_rate, left):
     random.shuffle(data[index].a)
+    score = "NaN" if succes_rate is None else f"{succes_rate * 100:.2f}"
     results = checkboxlist_dialog(
-        title=f"Pytanie: {index + 1}, wynik: {succes_rate:.2f}, pozostało: {left}",
+        title=f"Pytanie: {index + 1}, wynik: {score}%, pozostało: {left}",
         text=data[index].q,
         values=data[index].a,
         ok_text="Ok",
