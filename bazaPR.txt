@@ -317,7 +317,7 @@ Jest ortogonalne względem języków programowania
 Jest wbudowane w język C++
 Jest wbudowane w język C
 Dostarcza blokujących i nieblokujących operacji na przestrzeni krotek
-b e
+be
 
 Problemy: czytelników-pisarzy oraz producentówkonsumentów:
 5
@@ -372,7 +372,7 @@ Można go podnosić wielokrotnie gdy jest podniesiony
 Nie można go wykorzystywać do kontroli wejścia do sekcji krytycznej
 Operacje podnoszenia i opuszczania są dla niego atomowe
 Można go podnosić gdy jest opuszczony
-c e f
+cef
 
 Procesy w środowisku LINDA synchronizują się:
 5
