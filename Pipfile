@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+CHADTESTER_PR = "python CHADTESTER.py data/bazaPR.txt"
+
+[packages]
+prompt-toolkit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3"
