@@ -17,7 +17,7 @@ questions = 0
 correct = 0
 
 while len(indices) > 0:
-    ret = check_question(data, indices[0], (correct + 1) / (questions + 1), len(indices))
+    ret = check_question(data, indices[0], (correct) / (questions if questions > 0 else 0), len(indices))
     if ret == 1:
         map[indices[0]] += 1
         correct += 1
