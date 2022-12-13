@@ -17,4 +17,6 @@
     
 or alternatively:
 
+    pip install prompt_toolkit    
+
     python ./CHADTESTER.py database_file # AMAZING
