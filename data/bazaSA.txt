@@ -1,0 +1,104 @@
+Agent w programowaniu agentowym oznacza:
+3
+proces nadzorczy (pid=007) służący do zabijania innych niepożądanych procesów
+moduł służący do zdalnej konfiguracji i nadzoru działania sprzętu (np. agent SNMP)
+autonomiczna jednostka obliczeniowa zdolna do postrzegania i interakcji z otaczającym środowiskiem
+c
+
+Systemy tablicowe to:
+3
+systemy agentowe wykorzystujące metaforę tablicy i ekspertów do dekompozycji zadań
+systemy służące do rozwiązywania zadań, dające gwarancję uzyskania rozwiązania
+systemy agentowe operujące na tablicach baza danych
+a
+
+Charakterystyczne dla architektur BDI:
+3
+użycie języka logiki formalnej do opisu reguł działania agenta
+szybkość reakcji agenta
+łatwość mapowania cech dowolnego otoczenia na percepty
+a
+
+Cechami idealnych negocjacji są:
+5
+rozproszenie
+symetria
+stabilność
+wydajność
+prostota
+abcde
+
+Pod pojęciem aplikacji agentowej rozumiemy:
+4
+podanie o przyjęcie agenta do służby
+aplikację, której logika biznesowa jest zaimplementowana w całości lub w znacznej części przy użyciu agentów
+aplikację pisaną na potrzeby służb specjalnych
+grę o tajnym agencie, Jamesie Bondzie
+b
+
+Architektury wewnętrzne agentów inteligentnych mogą być:
+3
+oparte o język logiki formalnej (np. agenty BDI)
+warstwowe mieszane
+reaktywne
+abc
+
+Racjonalność i elastyczność działania agenta uzyskuje się przez:
+5
+wnioskowanie
+uczenie się
+spryt
+rozwiązywanie problemów i podejmowanie decyzji
+planowanie
+abde
+
+Cechami wspólnymi wszystkich agentów są:
+3
+proaktywność (zdolność do inicjowania czynności)
+mobilność
+autonomiczność (samodzielność)
+abc
+
+Środowisko określamy jako dostępne gdy:
+3
+wszystkie elementy środowiska pozostają w zasięgu efektorów agenta
+agent ma pełną, dokładną i aktualną widzę o stanie całego środowiska
+dana czynność agenta przynosi zawsze taki sam rezultat
+b
+
+Spotkaniowy model koordynacji agentów:
+4
+wymaga by punkty spotkań był określone z wyprzedzeniem
+jawnie nazywa partnerów podczas komunikacji
+jest sprzężony przestrzennie
+jest sprzężony czasowo
+ad
+
+Środowisko dyskretne to:
+3
+takie środowisko, w którym agenty nie interesują się czynnościami innych agentów
+takie środowisko, które przyjmuje skończoną liczbę stanów (postrzeganych przez agenta)
+takie środowisko, w którym zapewniona jest poufność komunikacji
+b
+
+Sieć kontraktowa to:
+3
+mechanizm przydziału zadań, w którym role proponenta i oferenta mogą się zmieniać
+graf zależności opisujący relację dostawców i odbiorców
+mechanizm przydziału zadań posiadający sztywne przypisanie ról proponenta i oferenta
+a
+
+Inteligentne działanie agenta cechują:
+3
+elastyczność
+wyrachowanie
+racjonalność
+ac
+
+Do zastosowań protokołów kooperacji należą:
+4
+utrzymywanie wspólnego stanu (wiedzy, itp.)
+ustalanie wspólnego zadania
+unikanie sytuacji konfliktowych
+ustalanie wspólnego celu
+abcd
