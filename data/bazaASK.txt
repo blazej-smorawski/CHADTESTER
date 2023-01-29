@@ -1,0 +1,519 @@
+(1)Na czym polega kontrola dostepu typu DAC?
+4
+administrator na prosbe uzytkownika udziela mu uprawnien
+uzytkownicy glosuja, komu nadac uprawnienia
+wlasciciel danych decyduje o tym, komu nadac do nich uprawnienia
+administrator nadaje etykiety poufnosci danym i uzytkownikom, a system decyduje o dostepie na podstawie kontroli etykiet
+3
+(2)Uwierzytelnianie to:
+4
+sprawdzenie, czy uzytkownik wlasciwie przestrzegal zasad wyznawanej przez siebie wiary podczas pracy w Internecie
+sprawdzenie wiarygodnosci: osob, stron w komunikacji, dokumentow, zrodel pochodzenia dokumentow, czasu ich utworzenia
+sprawdzenie uprawnien uzytkownika po zalogowaniu
+sprawdzenie, czy uzytkownik przestrzega zasad poprawnej pracy w systemie na podstawie analizy logow
+2
+(3)Algorytmy symetryczne sluza do:
+4
+podpisu elektronicznego
+generacji liczb losowych
+szyfrowania danych i uwierzytelniania
+tajnych obliczen na klastrach
+3
+(4)Klucz publiczny RSA to:
+4
+wykladnik potegowania w ciele Galois mod n
+wykladnik potegowania e i modul n=pq w ciele Galois mod n, gdzie p i q to liczby pierwsze utrzymywane w tajemnicy
+odwrotnosc klucza prywatnego e=l/d w ciele Galois mod n
+klucz otrzymany od instytucji publicznej
+2
+(5)PKI to:
+4
+Protected Key Infrastructure
+Private Key Identifier
+Public Key Infrastructure
+Protected Key Identifier
+3
+(6)Uruchamianie aplikacji 16-bitowych umozliwia w Windows XP podsystem:
+4
+Windows On Windows
+Win16
+HAL
+Windows 3.x
+1
+(7)Tryb zgodnosci nie umozliwia uruchamiania programow napisanych dla:
+4
+Windows 3.x
+Windows 95/98
+Windows NT 4.0
+Windows 2000
+1
+(9)Prefetch umozliwia:
+4
+Przyspieszenie wczytywania plikow z dysku
+Przewidywanie ladowania plikow z dysku
+Przyspieszenie uruchamiania aplikacji
+Przechowywanie danych z dysku w pamieci podrecznej
+3
+(10)Jezeli mamy komputer z 2 GB pamieci RAM i duzym dyskiem twardym (np.: 500GB), to plik stronicowania powinnismy ustawic na:
+4
+1 GB
+2 GB
+4 GB
+Automatycznie ustawienie przez Windows
+4
+(11)Do przydzielania odpowiednich wersji bibliotek DLL do aplikacji sluzy:
+4
+Menedzer DLL
+Manifest
+Transparent
+Instalator
+2
+(12)Nazwy uzytkownikow zapisane sa w galezi:
+4
+HKEY_CLASSES_ROOT
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HKEY_CURRENT_CONFIG
+2
+(13)Wirtualizacja w systemie Vista polega na:
+4
+Kopiowaniu plikow rejestru z profilu mobilnego do profilu lokalnego uzytkownika
+Bezposrednim zaladowaniu plikow rejestru z profilu mobilnego uzytkownika
+Zapisanie ustawien programow dla danego uzytkownika w galezi HKEY_CURRENT_USER
+Udostepnianiu ustawien programow z galezi HKEY_LOCAL_MACHINE przez HKEY_CURRENT_USER
+3
+(14)W polaczeniu VPN nie stosuje sie protokolu:
+4
+IPsec
+P2TP
+OpenVPN
+L2TP
+2
+(15)Klucz prywatny dla szyfrowania plikow przez system plikow Windows przechowywany jest w:
+4
+Rejestrze
+Profilu uzytkownika
+Magazynie certyfikatow
+Katalogu glownym
+3
+(16)Mechanizm zaawansowanego udostepniania plikow i folderow mozna wlaczyc:
+4
+Przez panel sterowania
+Przez Moj Komputer
+Przez opcje folderow
+Przez ustawienia dyskow
+3
+(17)Windows SxS polega na:
+4
+Tworzeniu kopi zapasowych bibliotek systemowych przy instalacji aplikacji
+Uniemozliwieniu nadpisania bibliotek o tej samej nazwie przy instalacji aplikacji
+Tworzeniu pliku manifest przy instalacji aplikacji
+Umozliwienie uruchomienia roznych wersji bibliotek systemowych dla roznych aplikacji
+4
+(19)NTFS od FAT32 odroznia m.in:
+4
+obsluga terabajtowych dyskow
+64 bitowe adresowanie
+adresowanie logiczne
+mozliwosc odzyskiwania skasowanych plikow
+2
+(20)GDI nalezy do:
+4
+sterownikow urzadzen
+HAL
+sterownikow kart graficznych
+uslug rezydentnych
+4
+(21)UAC umozliwia:
+4
+wylogowanie uzytkownika przez administratora,
+uruchomienie aplikacji wymagalnych uprawnien administratora przez zwyklego uzytkownika
+dynamiczna zmiane ze zwyklego uzytkownika na administratora
+dynamiczna zmiane uprawnien uzytkownika
+3
+(22)Wyswietlenie zawartosci katalogu w oknie konsoli Windows powoduje komenda:
+4
+cat
+dir
+list
+show
+2
+(23)Jesli mamy komputer z 2 GB pamieci RAM i duzym dyskiem twardym (np. 500 GB), to bufor dyskowy powinnismy ustawic na:
+4
+to zalezy od potrzeb
+512MB
+1 GB
+nie mamy mozliwosci ustalenia wielkosci bufora dyskowego
+4
+(24)Zarzadzanie zasilaniem nie umozliwia:
+4
+zmniejszania czestotliwosci taktowania procesora przy pracy na baterii
+hibernacji systemu
+wylaczenia monitora
+wylaczenia dyskow twardych
+1
+(25)Pliki rejestrowe nosza nazwy:
+4
+reguser, userclass
+ntuser, usrclass
+userdata, userclass
+usrdata, usrclass
+2
+(26)Wirtualizacja plikow w systemie Vista polega na:
+4
+kopiowaniu plikow ustawien programow z profilu mobilnego do profilu lokalnego uzytkownika
+kopiowaniu plikow programow z katalogu programow do profilu uzytkownika przy probie zapisu
+kopiowaniu plikow programow z domeny do komputera lokalnego
+zapewnieniu dostepu do plikow program6w w domenie jak na komputerze lokalnym
+2
+(27)Jak nazywa sie program ladujacy systemu Windows XP:
+4
+XPLDR
+WINLDR
+NTLDR
+MSLDR
+3
+(28)Na czym polega ustawienie czynnych uprawnien uzytkownika:
+4
+na tym, ze kazdy uzytkownik moze utworzyc konto innego uzytkownika tylko z takimi uprawnieniami, jakie sam posiada
+na tym, ze uzytkownik oprocz swoich wlasnych uprawnien ma tez uprawnienia grupy, do ktorej nalezy
+na tym, ze uzytkownikowi nie mozna odmowic uprawnien, ktore dziedziczy z grupy, do ktorej nalezy
+na wszystkich tych rozwiazaniach
+2
+(29)Ile partycji mozna utworzyc w GPT:
+4
+32
+64
+128
+256
+3
+(30)Ochrona zasobow systemu polega na:
+4
+sprawdzaniu uprawnien przy dostepie do niektorych plikow
+tworzeniu kopii zapasowych niektorych plikow
+sprawdzaniu uprawnien przy dostepie do czesci rejestru
+tworzeniu kopii zapasowych rejestru
+2
+(31)Udzial administracyjny dla dysku C nosi nazwe:
+4
+C:
+C$
+C&
+C@
+2
+(32)Czego nie ustawia mechanizm "plug-and-play":
+4
+adresy pamieci
+numery IRQ
+numery IP
+kanaly DMA
+3
+(33)Aby skutecznie zdefragmentowac dysk twardy 100GB, powinno byc na nim wolnego miejsca:
+4
+min 1,5 GB
+min 5GB
+min 10GB
+min 15GB
+4
+(34)Uslugi skladowe sluza do:
+4
+przechowywania danych w pamieci masowej
+przechowywania danych w archiwum
+organizowania aplikacji UPnP
+organizowania aplikacji COM+
+4
+(35)Punkty kontrolne systemu sa tworzone regularnie:
+4
+co godzine
+codziennie
+co tydzien
+tak jak to ustawi uzytkownik
+2
+(36)Pomoc zdalna rozni od pulpitu zdalnego:
+4
+brak mozliwosci sterowania zdalnego systemem
+brak mozliwosci sterowania lokalnego systemem
+koniecznosc zaproszenia osoby pomagajacej
+koniecznosc nadawania uprawnien dla osoby pomagajacej
+3
+(37)ICMP sluzy do:
+4
+Filtrowania portow TCP
+Filtrowania portow IP
+Filtrowania portow UDP
+Przesylania komunikatow diagnostycznych
+4
+(38)Data Execution Protection w Viscie oznacza:
+4
+ochrone segmentu danych przed wykonaniem rozkazow
+ochrone plikow danych przed uruchomieniem
+ochrone plikow danych przed nadpisaniem przez inna aplikacje
+ochrone plikow danych przed nadpisaniem przez innego uzytkownika
+1
+(39)Chcac automatycznie dodac konkretne pliki i katalogi nowo tworzonym uzytkownikom:
+4
+modyfikujemy plik ~/.bashrc
+modyfikujemy plik /etc/profile
+dodajemy je do katalogu /etc/skel
+dodajemy je do katalogu /etc/profile
+3
+(40)PAM to:
+4
+zestaw niezaleznych modulow do uwierzytelniania uzytkownikow
+zestaw wspolzaleznych modulow wspomagajacych administrowanie systemu
+menadzer programow wspomagajacy administrowanie systemu
+menadzer aplikacji administracyjnych
+1
+(41)PAM pozwala na:
+4
+scentralizowane zarzadzanie kontami uzytkownikow w sieci
+zdecentralizowane zarzadzenie kontami uzytkownikow w sieci
+wybor metod uwierzytelniania uzytkownikow
+sledzenie uzytkownikow i nazw hostow w sieci
+3
+(42)Wskaz zdanie prawdziwe:
+4
+do karty sieciowej moze byc przypisany tylko 1 interfejs
+do karty sieciowej moze byc przypisane wiele interfejsow, ale o wspolnym ip
+do karty sieciowej moze byc przypisane wiele interfejsow z roznymi ip
+do karty sieciowej moga byc przypisane 1 albo 2 interfejsy - podstawowy i ew. dodatkowy
+3
+(43)Wybierz odpowiedni zestaw opisujacy NetworkManagera:
+8
+tylko dla administratora / konsolowy / na serwerach
+tylko dla administratora / konsolowy / tylko na komputerach domowych
+tylko dla administratora / gui / na serwerach
+tylko dla administratora / gui / tylko na komputerach domowych
+rowniez dla uzytkownika / konsolowy / na serwerach
+rowniez dla uzytkownika / konsolowy / tylko na komputerach domowych
+rowniez dla uzytkownika / gui / na serwerach
+rowniez dla uzytkownika / gui / tylko na komputerach domowych
+8
+(44)Serwera DNS nie mozna znalezc na Linuxie:
+4
+w pliku /etc/resolv.conf
+wywolujac komende dig
+wywolujac komende nslookup
+wywolujac komende ifconfig
+4
+(45)scp umozliwia:
+4
+kopiowanie plikow miedzy maszynami w sieci bez szyfrowanego polaczenia (od szyfrowanego jest sscp)
+kopiowanie plikow miedzy maszynami w sieci z szyfrowanym polaczeniem
+protokol komunikacyjny, wykorzystywany do przesylania danych pomiedzy procesami uruchomionymi na roznych maszynach - poprzednik protokolu tcp
+skanowanie systemu w poszukiwaniu niebezpiecznych oraz pozerajacych pamiec procesow
+2
+(46)Ktore polecenie szyfruje dane przed przeslaniem:
+4
+telnet
+rlogin
+scp
+rsh
+3
+(47)Do dzialania ssh wymagane jest:
+4
+zeby na maszynie hosta dzialal demon ssh
+port na maszynie hosta byl ustawiony na 22
+port na maszynie hosta byl ustawiony na 23
+post na maszynie klienta byl ustawiony na 23
+1
+(48)Polaczenia z sieci wysylane przez nasz komputer w iptables:
+5
+blokujemy zawsze, bo przeciez my sie nie chcemy ze soba komunikowac, wiec ktos sie pod nas podszywa
+zawsze akceptujemy, bo moze sie zdarzyc, ze przesylamy sobie pakiety przez posrednie rutery
+zawsze akceptujemy, bo sprawdzanie aktywnosci interfejsu odbywa sie poprzez wyslanie do niego pakietu
+blokujemy tylko jezeli mamy dynamicznie przydzielane IP
+blokujemy tylko jesli mamy statyczne IP
+1
+(49)iptables jest:
+4
+firewallem
+demonem
+filtrem pakietow
+zwyklym programem
+3
+(50)Jesli chcemy zablokowac wszelki dostep z naszego komputera na inny komputer, to w iptables uzyjemy lancucha:
+5
+INPUT
+OUTPUT
+FORWARD
+POSTROUTING
+PREROUTING
+2
+(51)Jesli chcemy zablokowac wszelki dostep z naszego komputera na wszystkie komputery poza jednym, to w iptables uzyjemy lancucha:
+5
+INPUT 
+OUTPUT 
+FORWARD
+POSTROUTING
+PREROUTING
+2
+(52)Routing w iptables przydaje nam sie:
+4
+gdy chcemy udostepnic internet innym maszynom
+gdy chcemy pozbyc sie niektorych pakietow przesylajac je innym
+gdy odbieramy wiele pakietow na raz - zwieksza to wydajnosc sieci
+wszystkie odpowiedzi sa poprawne
+1
+(53)NFS umozliwia:
+4
+udostepnianie danych miedzy komputerami jednej sieci
+udostepnianie danych miedzy komputerami roznych sieci
+przesylanie pakietow miedzy komputerami roznych sieci
+przesylanie pakietow miedzy komputerami jednej sieci
+1
+(54)Na czym polega kontrola dostepu typu MAC?
+4
+administrator na prosbe uzytkownika udziela mu uprawnien
+uzytkownicy glosuja, komu nadac uprawnienia
+wlasciciel danych decyduje o tym, komu nadac do nich uprawnienia
+administrator nadaje etykiety poufnosci danym i uzytkownikom, a system decyduje o dostepie na podstawie kontroli etykiet
+4
+(55)Do karty sieciowej moze byc przypisane:
+4
+wiele adresow IP (wiecej niz 1)
+tylko 1
+0
+adresy IP nie sa przypisywane do karty sieciowej, tylko do karty graficznej
+1
+(56)ssh -L 1234:AppServer:23 username@SshdServer umozliwia
+4
+szyfrowane polaczenie tylko pomiedzy naszym komputerem a SshdServer
+szyfrowane polaczenie miedzy naszym komputerem a AppServer
+przekierowywanie calego ruchu z portu 1234 naszej maszyny na port 23 SshdServer (?)
+przekierowywanie calego ruchu z portu 23 naszej maszyny na port 1234 SshdServer (?)
+1
+(57)Za lokalne (w obrebie jednego komputera) rozprowadzanie poczty odpowiada:
+4
+MUA
+MTA
+MDA
+Wszystkie
+3
+(58)LDAP to:
+3
+baza danych
+usluga katalogowa informacjami opisowymi zorientowanymi na atrybuty
+biblioteka narzedziowa usprawniajaca zarzadzanie userami w linuxie
+2
+(59)Jadro linuxa:
+3
+monolityczne kompilowane do 1 programu
+monolityczne z mozliwoscia dolaczania czesci elementow - moduly
+modularne
+2
+(60)Po usunieciu zawartosci katalogu Prefetch:
+4
+zwolni uruchamianie systemu i aplikacji, ale tylko do restartu/ponownego ich uruchomienia
+zwolni uruchamianie systemu i aplikacji
+zwolni uruchamianie systemu, ale nie aplikacji
+zwolni uruchamianie aplikacji, a nie systemu
+4
+(61)Programy uruchamiane z systemem operacyjnym sa zapisane w rejestrze w galezi (wykropkowane czesci byly takie same w kazdej odpowiedzi)
+3
+...\Software\Microsoft\Windows\...
+...\Microsoft\Windows\...
+...\Microsoft\System\...
+1
+(62)W polaczeniu  IPsec (VPN) stosuje sie:
+4
+ESP
+SSL
+SCP
+SSH
+1
+(63)Klucz do szyfrowania plikow w systemie...
+4
+to nazwa uzytkownika
+to haslo uzytkownika
+jest zapamietany przez uzytkownika
+jest przechowywany w profilu uzytkownika
+4
+(64)Kiedy administrator moze usunac pliki stworzone przez uzytkownika:
+4
+kiedy uzytkownik nada mu takie prawo
+kiedy uzytkownik nada mu takie prawo albo on sam je sobie nada
+zawsze, bez problemow
+nigdy
+2
+(65)Jak sie nazywa przystawka odpowiadajaca za certyfikaty
+3
+CERTMGR
+CRTMGR
+CMR
+1
+(66)Na czym polega dziedziczenie uprawnien
+3
+foldery dziedzicza uprawnienia folderow nadrzednych
+uzytkownicy dziedzicza prawa grupy, do ktorej naleza
+oba powyzsze
+3
+(67)ICMP umozliwia:
+4
+badanie stanu sieci
+badanie stanu sieci i wysylanie potwierdzen
+sprawdzanie stanu zapory
+wszystkie powyzsze (1, 2 i 3)
+4
+(68)Narzedzie do sprawdzania drogi przekazywania pakietow
+4
+traceview
+routeview
+tracert
+tracer
+3
+(68)W klastrach pracy awaryjnej win serv 2008 stany wezlow sa przechowywane
+3
+w kazdym wezle niezaleznie
+w kworum klastra
+na serwerze wirtualnym
+2
+(69)HAL w XP nalezy do:
+4
+warstwy uslug
+warstwy sterownikow
+podsystemu win32
+warstwy fizycznej
+2
+(70)Uwierzytalnianie w IIS, w ktorym klient podaje haslo jawnie to:
+4
+uwierzytelnianie podstawowe
+zintegrowane uwierzytelnianie systemowe
+typu digest
+zintegrowane uwierzytelnianie systemowe + digest
+1
+(71)Urzad certyfikacji, ktory wykorzystuje uslugi AD, to:
+4
+AD CA
+Enterprise CA
+Standalone CA
+Root CA
+1
+(72)Usluga jednokrotnego logowania w microsoft .net to:
+4
+Passport ID
+Open ID
+Live ID
+Ms ID
+3
+(73)Jakie informacje nie sa przechowywane w profilu uzytkownika
+4
+dokumenty usera
+tozsamosc pocztowa
+ustawienia aplikacji
+login i haslo
+4
+(74)Wolumin lustrzany to Raid
+4
+0
+1
+2
+5
+2
+(75)WDS nie potrzbuje
+4
+DNS
+DHCP
+DFS
+NTFS
+3
