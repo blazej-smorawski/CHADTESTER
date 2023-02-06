@@ -1,0 +1,1222 @@
+Wizualizacja dla danych o dziedzinie wielowymiarowej i przeciwdziedzinie jednowymiarowej:
+4
+Wykres słupkowy
+Wykres liniowy
+Wykres typu "mapa"
+Wykres mozaikowy
+d
+
+Sieć rybacka (odwzorowanie):
+4
+X->Y
+X -> Y^m , m>1
+X^n -> Y^m, n>1, m=>1
+X^2 -> Y^m, m>1
+b
+
+Diagram o umieralności w wosjku z przed 150 lat, kogo?:
+4
+Mirand
+Napelon
+Nightingale
+Snow
+c
+
+Co obrazuje mapa Minarda?:
+4
+Kampanie Napoleona
+Równowaga rynku
+Korelacje epidemii cholery z połóżeniem jednej z pomp
+Umieralność w wojsku z przed 150 lat
+a
+
+Co pokazuje wykres Playfaira:
+4
+Przyczyny śmierci w wojsku
+Równowaga rynku
+Kampanie Napoleona
+Korelacja epidemii cholery z połóżeniem jednej z pomp
+b
+
+Mapa Snowa:
+4
+Przyczyny smierci w wojsku
+Równowaga rynku
+Kampania Napoleona
+Korelacja epidemii cholery z położeniem jednej z pomp
+d
+
+Co to jest wizualizacja danych?
+4
+Pokazywanie bazy danych
+Prezentacja zależności czegoś od czegoś
+Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów
+Prezentacja obiektu lub zjawiska
+b
+
+Co to jest wizualizacja (ogólnie)?
+4
+Prezentacja obiektu lub zjawiska
+Prezentacja zależności czegoś od czegoś
+Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów
+Przedmiot
+c
+
+Co to jest wizualizacja naukowa?
+4
+Kształtowanie obrazu w umyśle odbiorcy, osiągane za pomocą wzroku (najczęściej) lub innych zmysłów
+Prezentacja zależności czegoś od czegoś
+Prezentacja obiektu lub zjawiska
+Baza danych naukowo
+c
+
+Jaki wykres służy tylko do danych jednowymiarowych 
+4
+Mozaikowy
+Percentylowy
+Mapa
+Liniowy
+b
+
+Dane jednowymiarowe
+4
+mapa
+pudełkowy Tukeya
+kolumnowy
+sieć rybacka
+b
+
+Dane jednowymiarowe
+4
+liniowy
+sieć rybacka
+mapa
+iskres
+d
+
+Dane jednowymiarowe
+4
+Kolaż zdjęć w albumie
+Mapa miasta
+histogram
+sieć rybacka
+c
+
+Wykres pole wektorowe jest wizualizacją zależności...
+4
+X^2->Y
+X^2->Y^2
+X->Y
+X->Y^2
+b
+
+X->Y
+4
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+a
+
+X -> Y^m (dla m > 1)
+4
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe (grupowane, skumulowane), wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+c
+
+X^2 -> Y
+4
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+a
+
+X^2 -> Y^m
+4
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy powierzchniowe, typu "mapa", wykresy bąbelkowe, wykres pole wektorowe
+d
+
+X^n -> Y^m dla m >= 1
+4
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+d
+
+Jaka metoda umożliwia przeglądanie wielkiej ilości danych tabelarycznych?
+4
+Dyfuzja Floyda-Steinberga
+Antyaliasing
+Kwantyzacja
+Table Lens
+d
+
+Porządkowanie danych pozwala dobrze ukazywać zależności w...
+4
+wykresie punktowym
+wykresie typu szachownicy
+sieci rybackiej
+typu mapa
+b
+
+wykres liniowy
+4
+x^2->y
+x^2->y^m, m>1
+x->y
+x->y^2
+c
+
+Która nazwa nie jest synonimem Metody Centroidowej 
+4
+Kwantyzacja skupionego grupowania
+Kwantyzacja wg drzewa ósemkowego
+cut-mediana
+LBG
+d
+
+wykres punktowy
+4
+x^n->y^m, m>=1
+x^2->y
+x^2->y^m
+x->y
+d
+
+Jakie piksele sa brane pod uwage Floyda-Steinberga?
+4
+Najbliższe cztery
+Cztery jeszcze nie odwiedzone
+Wszystkie na około
+Od lewej od góry, pokolei
+b
+
+Minimalizacja bledu sredniokwadratowego
+4
+Kwantyzacja Maxa-Lloyda
+Mediana-cut
+Kwantyzacja popularnosciowa
+Kwantyzacja osemkowa
+a
+
+Dlugosc odcinka, kat nachylenia srednich, itp to kolejne wymiary
+4
+Patyczaki
+buzki Chernoffa
+Hiperpudlo
+wielowymiarowe ikony
+a
+
+Buzki, kogo?
+4
+Mira
+Snowa
+Chernoffa
+Playfaira
+c
+
+Na czym polega przetwarzanie wybiorcze?
+4
+Tylko przekroj
+Obnizenie poziomu zainteresowania, brak wyszczegolnienia waznych warstw
+Na podniesieniu wartswy zainteresowania, obizenie pozostalych warstw
+Prezentacja dokumentow na plaszczyznie
+c
+
+Co umozliwia wizualizacje ogrmonej liczby danych tabelraycznych?
+4
+LaSens Table
+Kwantyzacja
+Szachownica
+Table Lens
+d
+
+Wykres kluczy to
+4
+Kartogram
+Wykres Kagi
+Diagram Gantta
+Som
+b
+
+Skalowanei wielowymiarowe
+4
+Przerzucenie wymiaru na kilka
+Rozdrobnienie obrazu
+Wyszczegolowienie waznych informacji
+Rozmieszczenie podobnych rzeczy blizej siebie
+d
+
+Generator fali sinusoidalnej, ktora podajemy obrobce celem zmiany brzmienia
+4
+Sampling
+Synteza subtraktywna
+Synteza addytywna
+Synteza FM
+b
+
+Ksztaltujemy widmo, aby uzyskac konkretne brzmienie
+4
+Sampling
+Synteza addytywna
+Synteza substraktywna
+Modelowanie matematyczne
+b
+
+Wykorzystujemy modulacje czestotliwosci, uzalezniamy czestotliwosc od kolejnej funkcji
+4
+Synteza FM
+Sampling
+Synteza substraktywna
+Synteza addytywna
+a
+
+konkretny dzwiek, jako wiadomosc
+4
+Audyfikacja
+Ikony dzwiekowe - "auditory icons"
+Mapowanie parametrow
+Earcons
+b
+
+Bezposrednie odwzorowanie danych numerycznych
+4
+Audyfikacja
+Mapowanie parametrow
+Ikony dzwiekowe - "auditory icons"
+Earcons
+a
+
+wykres pierscieniowy
+4
+X^2->Y
+X->Y
+X^2->Y^m
+X->Y^m
+d
+
+typu mapa (w poprawne) 
+4
+X->Y
+X^2->Y
+X^2->Y^m
+X^m->Y^n, n=>1
+bc
+
+kołowe
+4
+X->Y^m
+X^2->Y^m
+X^2->Y
+X->Y
+d
+
+powierzchniowe (w poprawne)
+4
+X^2->Y^m, m => 1
+X^2->Y
+X->Y
+X->Y^m
+ab
+
+babelkowe
+4
+X->Y^m
+X->Y
+X^n->Y^m, m => 1
+X^2->Y^m
+d
+
+Na iskres składa się mała grafika wysokiej rozdzielczości przedstawiające krzywą stanowiącą wykres jakiejś zależności i :
+4
+tylko oś rzędnych
+tylko oś odciętych
+nic więcej
+obie osię rzędnych i odciętych
+c
+
+Na czym polega idea ikon dźwiękowych
+4
+Rozpoznanie i głosowy opis ikony graficznej
+Przyporządkowanie wiadomości konkretnych melodii
+przyporządkowanie wiadomościom konkretnych dźwięków
+Przekształcenie danych graficznych w próbki sygnału tworzące falę dźwiękową 
+c
+
+Do przedstawienia jakiej zaleśności służy wykres mozaikowy
+4
+zależności o dziedzinie jednowymiarowej i ciągłej przeciwdziedzinie wielowymiarowej (raczej>2)
+Zależności o dziedzinie jednowymiarowej i dyskretnej przeciwdziedzinie wielowymiarowej(raczej>2)
+Zależności o dyskretnej wielowymiarowej (raczej>2) i przeciwdziedzinie jednowymiarowej
+zależności o ciągłej dziedzinie wielowymiarowej (raczej>2) i przeciwdziedzinie jednowymiarowej
+c
+
+Który wykres nie jest wypełnienia
+4
+drzewo stożkowe
+metoda radialna 
+drzewmapa
+drzewo sopli
+a
+
+Który z wymienionych wykresów nie nadaje się do przeciwdziedziny wielowymiarowej
+4
+Radarowy
+patyczaki
+pudełkowy tukeya
+buźki chernoffa
+c
+
+Co jest w założonym w 2014 laboratium zanurzonej wizualizacji
+4
+Kula wirtualnej rzeczywistości
+Dwukierunkowa taśma do chodzenia w miejscu
+Monitory stereskopowe
+Symulator okrętu
+a
+
+Dane jednowymiarowe
+4
+percentylowy wykres pudełkowy
+mapa
+kolumnowy
+sieć rybacka
+a
+
+Dane jednowymiarowe
+4
+pudełkowy Tukeya
+mapa
+kolumnowy
+sieć rybacka
+a
+
+Dane jednowymiarowe
+4
+iskres
+liniowy
+mapa
+sieć rybacka
+a
+
+Dane jednowymiarowe
+4
+histogram
+sieć rybacka
+Mapa miasta
+Kolaż zdjęć w albumie
+a
+
+Dane dwuwymiarowe
+4
+punktowy
+percentylowy
+macierz punktowa
+radarowy
+a
+
+Dane dwuwymiarowe
+3
+pudełkowy
+macierz punktowa
+hiperpudło
+a
+
+Dane dwuwymiarowe
+4
+histogram
+iskres
+wielowymiarowe ikony
+buźki Chernoffa
+a
+
+Dane trójwymiarowe
+4
+wykresy punktowe - prezentacja i rzuty 2D
+histogram
+patyczaki
+wykres mozaikowy
+a
+
+Dane trójwymiarowe
+4
+macierz punktowa
+buźki Chernoffa
+patyczaki
+iskres
+a
+
+Dane Trójwymiarowe
+4
+"topienie"
+wykres mozaikowy
+wykres pudełkowy
+percentylowy wykres pudełkowy
+a
+
+Dane wielowymiarowe
+4
+sieć rybacka
+wykres percentylowy
+histogram
+wykres pudełkowy Tukeya
+a
+
+Dane wielowymiarowe
+4
+mozaikowy
+wykresy punktowe
+macierz punktowa
+iskres
+a
+
+Dane wielowymiarowe
+4
+radarowy
+wykres punktowy
+"topienie"
+percentylowy wykres pudełkowy
+a
+
+Dane wielowymiarowe
+4
+hiperpudło
+"topienie"
+wykres percentylowy
+macierz punktowa
+a
+
+Dane wielowymiarowe
+4
+wielowymiarowe ikony
+wykresy punktowe - rzuty 2D
+wykres pudełkowy Tukeya
+histogram
+a
+
+Dane wielowymiarowe
+4
+buźki Chernoffa
+wykresy punktowe - prezentacja 2D
+wykres pudełkowy Tukeya
+histogram
+a
+
+Dane wielowymiarowe
+4
+patyczaki
+"topienie"
+wykres percentylowy
+macierz punktowa
+a
+
+X->Y
+4
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+a
+
+X -> Y^m (dla m > 1)
+4
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe (grupowane, skumulowane), wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy powierzchniow, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+a
+
+X^2 -> Y
+4
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+a
+
+X^2 -> Y^m
+4
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+wykresy liniowe, wykresy punktowe, wykresy słupkowe, wykresy kołowe
+a
+
+X^n -> Y^m dla m >= 1
+4
+wykresy mozajkowe, animacja jednego wymiaru, przekroje jednego wymiaru
+wykresy powierzchniowe, wykresy słupkowe, wykresy bąbelkowe, wykres pole wektorowe
+wykresy powierzchniowe, wykresy słupkowe, wykresy typu mapa, wykresy bąbelkowe
+wykresy liniowe (zwykłe i warstwowe), wykresy punktowe, wykresy słupkowe, wykresy pierścieniowe, wykres radarowy, wykres sieć rybacka
+a
+
+Co może przedstawiać reprezentacja wg położenia geograficznego
+4
+mapę polityczna, liczność populacji i PKB
+śmiertelnośc ludzi, zyjący z HIV/AIDS i wydatki na zdrowie
+zużycie energii i emisje gazów cieplarnianych
+Wszystkie odpowiedzi są poprawne
+d
+
+Wyróznik danych wymagający ostrożnosci i uzywany w celach ostrzegawczych
+4
+Kolor
+MIS
+MOS
+Skala
+a
+
+Do czego służy oprogramowanie Seesoft?
+4
+Ukazywania edycji kodu w czasie
+Reprezentacji głosowej figur geometrycznych
+Wspomagania osób niedowidzących
+Analizowania najczęściej wykorzystywanego oprogramowania
+a
+
+Na czym polega przetwarzanie dynamiczne automatyczne?
+2
+animacji wedlug parametrów
+zmianie parametrów okreslających zależnosci
+a
+
+Na czym polega przetwarzanie dynamiczne ręczne?
+2
+zmianie parametrów okreslających zależnosci
+animacji wedlug parametrów
+a
+
+Synteza bazująca na równaniach różniczkowych
+4
+metoda matematyczna
+Synteza substraktywna
+Synteza FM
+metoda analityczna
+a
+
+Synteza w której wykorzystujemy bazę próbek
+4
+Sampling
+Synteza substraktywna
+Synteza addytywna
+metoda matematyczna
+a
+
+bezpośrednie tłumaczenie układu pikseli do postaci dźwięku to
+4
+Smartsight
+SVPL
+CAITLIN
+SOM
+a
+
+Przykładem sonifikacji w programowaniu nie jest
+4
+SOM
+SVPL
+CAITLIN
+sortowanie bąbelkowe wizualizowane dźwiękiem
+a
+
+wykresy liniowe
+4
+x->y
+x^2->y
+x^2->y^m
+x^n->y^m, m>=1
+a
+
+wykresy liniowe
+4
+x->y^m
+x^2->y
+x^2->y^m
+x^n->y^m, m>=1
+a
+
+punktowe
+4
+x->y
+x^2->y
+x^2->y^m
+x^n->y^m, m>=1
+a
+
+punktowe
+4
+x->y^m
+x^2->y
+x^2->y^m
+x^n->y^m, m>=1
+a
+
+które nie opisuje słupkowych
+4
+x^n->y^m, m>=1
+x^2->y
+x->y
+x->y^m
+a
+
+które nie opisuje słupkowych
+4
+x^2->y^m
+x^2->y
+x->y
+x->y^m
+a
+
+kolowe
+4
+X->Y
+X->Y^m
+X^2->Y
+X^2->Y^m
+a
+
+typu mapa
+4
+X^2->Y
+X->Y^2
+X->Y
+X^m->Y^n, n=>1
+a
+
+typu mapa
+4
+X^2->Y^m
+X->Y^2
+X->Y
+X^m->Y^n, n=>1
+a
+
+radarowe
+4
+X->Y^m
+X^2->Y^m
+X->Y
+X^m->Y^n, n=>1
+a
+
+sieć rybacka
+4
+X->Y^m
+X^2->Y^m
+X->Y
+X^m->Y^n, n=>1
+a
+
+powierzchniowe
+4
+X^2->Y
+X->Y
+X->Y^m
+X^n->Y^m, m => 1
+a
+
+powierzchniowe
+4
+X^2->Y^m
+X->Y
+X^n->Y^m, m => 1
+X->Y^m
+a
+
+babelkowe
+4
+X^2->Y
+X->Y
+X^n->Y^m, m => 1
+X->Y^m
+a
+
+typu "mapa"
+4
+X^2->Y
+X->Y
+X^n->Y^m, m => 1
+X->Y^m
+a
+
+animacja jednego wymiaru
+4
+X^n->Y^m, m => 1
+X->Y
+X^2->Y
+X->Y^m
+a
+
+przekroje jednego wymiaru
+4
+X^n->Y^m, m => 1
+X->Y
+X^2->Y
+X->Y^m
+a
+
+wykresy mozaikowe
+4
+X^n->Y^m, m => 1
+X->Y
+X^2->Y
+X->Y^m
+a
+
+Przykładem przeglądania jednowymiarowego sa?
+2
+Listy
+Mapy dokumentów
+a
+
+Przykładem przeglądania dwuwymiarowego sa?
+2
+Mapy dokumentów
+Listy
+a
+
+Wizualizacje stosujemy w celu?
+4
+Lepszego zrozumienia informacji
+wyszukiwania trendów i zależności
+w celu zwiekszenia wydajnosci i doszukiwania sie zwiazkow ktore nornmalnie nie bylyby widoczne
+Wszystkie odpowiedzi sa poprawne
+a
+
+Jaka jest poprawna kolejność działania algorytmu WEBSOM?
+4
+Utworzenie słownika/Określenie każdego dokumentu wektorem/Formowanie mapy dokumentów
+Określenie każdego dokumentu wektorem/Utworzenie słownika/Formowanie mapy dokumentów
+Utworzenie słownika/Formowanie mapy dokumentów/Określenie każdego dokumentu wektorem
+Określenie każdego dokumentu wektorem/Formowanie mapy dokumentów/Utworzenie słownika
+a
+
+Rozwiń skrót SOM
+4
+self-organizing map
+single object management
+self-oriented map
+self-organizing matrix
+a
+
+Twórca algorytmu SOM
+4
+Teuvo Kohonen
+Marek Kubale
+Edward Tufte
+Reingold-Tilford
+a
+
+Jaka jest poprawna kolejność działania algorytmu SOM?
+4
+Inicjalizacja mapy/losowy wybor probki/wyszukiwanie najblizszego sasiada/przeskalowanie sasiadow
+Losowy wybor probki/Wyszukiwanie najblizszego sasiada/Przeskalowanie sasiadow/Inicjalizacja mapy
+Inicjalizacja mapy/wyszukiwanie najblizszego sasiada/losowy wybor probkiprze/skalowanie sasiadow
+Inicjalizacja mapy/przeskalowanie sasiadow/losowy wybor probki/wyszukiwanie najblizszego sasiada
+a
+
+Co oznacza skrót MIS
+4
+months in service
+management information system
+mounting interface standard
+minimally isostope stage
+a
+
+Co oznacza skrót MOS
+4
+month of production
+mean opinion score
+metal oxide semiconductor
+microsoft office specialist
+a
+
+węzły i gałęzie sa metodą?
+4
+wizualizacji hierarchi
+skalowania wielowymiarowego
+przeglądania jednowymiarowego
+przeglądanie dwuwymiarowego
+a
+
+wypełnienia sa metodą?
+4
+wizualizacji hierarchi
+skalowania wielowymiarowego
+przyblizenia geometrycznego
+przyblizenia semantycznego
+a
+
+wizualizacja ortogonalna jest metodą?
+4
+wizualizacji hierarchi
+drzewa sopli
+radialna
+promieni słonecznych
+a
+
+Twórcami skalowania klasycznego w skalowaniu wielowymiarowym są?
+4
+Torgersona-Gowera
+Reingolda-Tilforda
+Kentucky-Fried-Chickena
+Wetherella-Shannona
+a
+
+Podaj przykład wizualizacji wykresu prównawczego
+4
+wykres Kagi
+kartogramy
+diagram Gantta
+cyklogramy
+a
+
+Rodzajem syntezy dźwięku nie jest
+4
+metoda audyfikacji
+metoda addytywna i subtraktywna
+metoda matematyczna i sampling
+metoda FM
+a
+
+Który z poniżych nie jest rodzajem słyszenia
+4
+słyszenie parametryczne
+słyszenie ukierunkowane na źródło
+słyszenie muzyczne
+słyszane analitycznie
+a
+
+Podaj przykład wizualizacji mapy wystepowania
+4
+kartogramy
+wykres kluczy
+diagram Gantta
+cyklogramy
+a
+
+Podaj przykład wizualizacji wykresu wypełnienia
+4
+diagram Gantta
+diagram sieciowy
+diagram przepływu danych
+wykres Kagi
+a
+
+Podaj przykład wizualizacji wykresu wypełnienia
+4
+diagram łańcucha zdarzeń
+diagram sieciowy
+diagram przepływu danych
+kartogramy
+a
+
+Podaj przykład wizualizacji shcematów blokowych
+4
+diagram przepływu danych
+wykres kluczy
+diagram Gantta
+cyklogramy
+a
+
+Podaj przykład wizualizacji shcematów blokowych
+4
+diagram sieciowy
+wykres Kagi
+diagram Gantta
+cyklogramy
+a
+
+Czym jest diagram Gantta
+4
+graficzną reprezentacją harmonogramu stosowaną w zarządzaniu projektowym
+graficzną reprezentacją sytuacji giełdowych
+graficzną reprezentacją wystepowania konkretnych danych w regionie
+graficzną reprezentacja przpływu danych między operacjami procesu
+a
+
+Za co odpowiedzialny jest wykres Kagi
+4
+Inaczej wykres kluczy, informuje o zmianach sytuacji giełdowych jin-jang - kupno, jang-jin - sprzedaż
+Inaczej wykres kluczy, informuje o zmianach sytuacji giełdowych jin-jang - sprzedaż, jang-jin - kupno
+Stosowanym w zarządzaniu projektowym, informującym o procentowej realizacji zadań
+Reprezentacje graficzną projektu w czasie za pomocą grafu skierowanego.
+a
+
+Dowolnie zacieniowany prostokąt w Diagramie Gantta reprezentuje
+4
+zadanie krytyczne
+zadanie niektrytyczne
+podsumowanie
+kamień milowy
+a
+
+prostokat bez wypełnienia w Diagramie Gantta reprezentuje
+4
+zadanie niektrytyczne
+zadanie ktrytyczne
+podsumowanie
+kamień milowy
+a
+
+wypełniony prostokąt z ząbkami na końcach w Diagramie Gantta reprezentuje
+4
+podsumowanie
+zadanie ktrytyczne
+zadanie niektrytyczne
+kamień milowy
+a
+
+wypełniony romb w Diagramie Gantta reprezentuje
+4
+kamień milowy
+zadanie ktrytyczne
+zadanie niektrytyczne
+podsumowanie
+a
+
+Zadanie krytyczne w diagramach Gantta to:
+4
+dowolnie zacieniowany prostokąt zadanie istotne i niepomijalne
+prostokąt bez wypełnienia zadanie mniej istotne nie warunkuje jego powodzenia
+prostokąt wypełniony z ząbkami na końcu spina zadania krytyczne i niekrytyczne jest to oznaczenie pewnego etapu projektu zazwyczaj występuje po nim kamień milowy
+wypełniony romb sygnał zakończenia pewnej fazy zadania sygnalizuje przejście do kolejnego etapu
+a
+
+Zadanie niekrytyczne w diagramach Gantta to:
+4
+prostokąt bez wypełnienia zadanie mniej istotne nie warunkuje jego powodzenia
+dowolnie zacieniowany prostokąt zadanie istotne i niepomijalne
+prostokąt wypełniony z ząbkami na końcu spina zadania krytyczne i niekrytyczne jest to oznaczenie pewnego etapu projektu zazwyczaj występuje po nim kamień milowy
+wypełniony romb, sygnał zakończenia pewnej fazy zadania sygnalizuje przejście do kolejnego etapu
+a
+
+Podsumowanie w diagramach Gantta to:
+4
+prostokąt wypełniony z ząbkami na końcu spina zadania krytyczne i niekrytyczne jest to oznaczenie pewnego etapu projektu zazwyczaj występuje po nim kamień milowy
+prostokąt bez wypełnienia zadanie mniej istotne nie warunkuje jego powodzenia
+wypełniony romb sygnał zakończenia pewnej fazy zadania sygnalizuje przejście do kolejnego etapu
+dowolnie zacieniowany prostokąt zadanie istotne i niepomijalne
+a
+
+Kamień milowy w diagramach Gantta to:
+4
+wypełniony romb sygnał zakończenia pewnej fazy zadania sygnalizuje przejście do kolejnego etapu
+prostokąt bez wypełnienia zadanie mniej istotne nie warunkuje jego powodzenia
+prostokąt wypełniony z ząbkami na końcu spina zadania krytyczne i niekrytyczne jest to oznaczenie pewnego etapu projektu zazwyczaj występuje po nim kamień milowy
+dowolnie zacieniowany prostokąt zadanie istotne i niepomijalne
+a
+
+Na co pozwala diagram Gantta
+4
+Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań
+Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem
+Ukazywanie przepływu danych między poszczególnymi operacjami procesu
+Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie
+a
+
+Na co pozwalaja kartogramy
+4
+Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem
+Graficzne przedstawienie projektu w czasie
+Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie
+Ukazywanie przepływu danych między poszczególnymi operacjami procesu
+a
+
+Na co pozwala diagram łańcucha zdarzeń
+4
+Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie
+Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań
+Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem
+Ukazywanie przepływu danych między poszczególnymi operacjami procesu
+a
+
+Na co pozwala diagram przepływu danych
+4
+Ukazywanie przepływu danych między poszczególnymi operacjami procesu
+Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie
+Graficzne przedstawienie projektu w czasie
+Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem
+a
+
+Na co pozwala diagram sieciowy
+4
+Graficzne przedstawienie projektu w czasie
+Pokazywanie relacji między zdarzeniami i zadaniami oraz wpływu poszczególnych zdarzeń na siebie
+Pozwala na określanie przebiegu etapów i informowanie w formie procentowej realizacji danych zadań
+Reprezentacje po przez zaznaczenie kolorem lub deseniem wielkości danych związanych z obszarem
+a
+
+Elementy składowe takie jak: aktorzy(prostokąty), procesy(prostokąty z zaokraglonymi rogami), magazyny danych(linie), przepływy(strzalki) są elementami diagramu
+4
+przepływu danych
+sieciowego
+łańcucha zdarzeń
+Gantta
+a
+
+Co w diagramie sieciowym reprezentują wierzchołki i łuki?
+4
+wierzchołki - zadania składające się na projekt łuki - ukierunkowane powiązania pomiędzy zadaniami
+wierzchołki - zadania składające się na projekt łuki - nieukierunkowane powiązania pomiędzy zadaniami
+wierzchołki - osoby wchodzące w skład grupy projektowej łuki - powiązania między tymi osobami
+wierzchołki - punkty dostępu w sieci łuki - koszt przebycia drogi pomiędzy punktami dostępu
+a
+
+Jak definiujemy głośność?
+4
+amplituda sygnału, może być zakłócona przez środowisko
+wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz
+dźwięk jako suma sygnałów o róźnych częstotliwościach
+trudna do zdefiniowania, bliska strukturze widmowej
+a
+
+Czym jest Sonifikacja
+4
+przekształcanie danych do postaci relacji postrzeganych w sygnale akustycznym (wizualizacja akustyczna)
+Analizą danych sejsmicznych
+Analizą danych statycznych, przeszukiwanie separowanych klas
+Reprezentacją głosową figur
+a
+
+Do typów sonifikacji nie zaliczamy
+4
+earcons - dźwięki abstraktcyjne ikony dźwiękowe - sygnały dźwiękowe z życia codziennego
+FM - modulacja częstotliwiściowa, uzależniamy modulacje od poprzedniej funkcji
+mapowanie parametrów - zmiana max 20 parametrów
+audyfikacja - próbki sygnału przekształcone w falę dźwiękową
+a
+
+Wymień rodzaje wizualizacji(podział ze względu na formę)
+4
+wykresy porównawcze(statystyczne), mapy występowania, wykresy wypełnienia, schematy blokowe
+proste, złożone
+wykresy punktowe wykresy liniowe zwykłe i warstwowe wykresy słupkowe, grupowane i skumulowane wykresy pierścieniowe wykresy przestrzenne powierzchniowe i słupkowe
+dla małych różnic:, punktowe, liniowe, słupkowe pionowe i poziome, biegunowe(pajęczyna) kołowe dla dużych różnic:, powierzchniowe, obrazkowe(symbole) dla ogromnych różnic:, przestrzenne
+a
+
+Wymień rodzaje wykresów(podział ze względu na zależności)
+4
+proste, złożone
+wykresy porównawcze(statystyczne), mapy występowania, wykresy wypełnienia, schematy blokowe
+dla małych różnic:, punktowe, liniowe, słupkowe pionowe i poziome, biegunowe(pajęczyna), kołowe dla dużych różnic:, powierzchniowe, obrazkowe(symbole) dla ogromnych różnic:, przestrzenne
+wykresy punktowe wykresy liniowe, zwykłe i warstwowe wykresy słupkowe, grupowane i skumulowane wykresy pierścieniowe wykresy przestrzenne powierzchniowe i słupkowe
+a
+
+Wymień wykresy porównawcze proste
+4
+dla małych różnic:, punktowe, liniowe, słupkowe pionowe i poziome, biegunowe(pajęczyna), kołowe dla dużych różnic:, powierzchniowe, obrazkowe(symbole) dla ogromnych różnic:, przestrzenne
+wykresy punktowe wykresy liniowe, zwykłe i warstwowe wykresy słupkowe, grupowane i skumulowane wykresy pierścieniowe wykresy przestrzenne powierzchniowe i słupkowe
+wykresy porównawcze(statystyczne), mapy występowania, wykresy wypełnienia, schematy blokowe
+proste, złożone
+a
+
+Wymień wykresy porównawcze złożone
+4
+wykresy punktowe wykresy liniowe, zwykłe i warstwowe wykresy słupkowe, grupowane i skumulowane wykresy pierścieniowe wykresy przestrzenne, powierzchniowe i słupkowe
+dla małych różnic:, punktowe, liniowe, słupkowe pionowe i poziome, biegunowe(pajęczyna), kołowe dla dużych różnic:, powierzchniowe, obrazkowe(symbole) dla ogromnych różnic:, przestrzenne
+wykresy porównawcze(statystyczne), mapy występowania, wykresy wypełnienia, schematy blokowe
+proste, złożone
+a
+
+Czym jest Sonifikacja zorientowana na model
+4
+każda sytuacja daje jakiś skutek dźwiękowy (tzw. dźwięk zwrotny), analiza danych statycznych, przeszukiwanie separowanych klas
+Analizą danych sejsmicznych
+przekształcanie danych do postaci relacji postrzeganych w sygnale akustycznym (wizualizacja akustyczna)
+Reprezentacją głosową figur
+a
+
+Wymień rodzaje metody węzły-gałęzie metody wizualizacji hierarchii
+2
+metoda warstwowa dendrogram metoda katalogowa metoda radialna H-drzewo
+metoda drzewa sopli metoda radialna metoda promieni słonecznych drzewmapa
+a
+
+Wymień rodzaje metody wypełnienia wizualizacji hierarchii
+2
+metoda drzewa sopli metoda radialna metoda promieni słonecznych drzewmapa
+metoda warstwowa dendrogram metoda katalogowa metoda radialna H-drzewo
+a
+
+Jak definiujemy dźwięk
+4
+wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz
+amplituda sygnału, może być zakłócona przez środowisko
+dźwięk jako suma sygnałów o róźnych częstotliwościach
+trudna do zdefiniowania, bliska strukturze widmowej
+a
+
+Jak definiujemy widmo?
+4
+dźwięk jako suma sygnałów o róźnych częstotliwościach
+wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz
+amplituda sygnału, może być zakłócona przez środowisko
+trudna do zdefiniowania, bliska strukturze widmowej
+a
+
+Jak definiujemy barwę dźwięku?
+4
+trudna do zdefiniowania, bliska strukturze widmowej
+wrażenie słuchowe spowodowane falami akustycznymi 16Hz - 16KHz
+dźwięk jako suma sygnałów o róźnych częstotliwościach
+amplituda sygnału, może być zakłócona przez środowisko
+a
+
+Wymień rodzaje map wystepowania
+3
+mapy kropkowe i bąbelkowe kartogramy kartodiagramy mapy izarytmiczne i zasięgu
+cyklogramy harmonogramy
+schematy sterowania schematy organizacyjne schematy powiązan diagramy przepływu
+a
+
+Wymień rodzaj wykresów wypełnienia
+3
+cyklogramy harmonogramy
+mapy kropkowe i bąbelkowe kartogramy kartodiagramy mapy izarytmiczne i zasięgu
+schematy sterowania schematy organizacyjne schematy powiązan diagramy przepływu
+a
+
+Wymień rodzaje schematów blokowych
+3
+schematy sterowania schematy organizacyjne schematy powiązan diagramy przepływu
+cyklogramy harmonogramy
+mapy kropkowe i bąbelkowe kartogramy kartodiagramy mapy izarytmiczne i zasięgu
+a
+
+Co oznacza jednostka na osi odciętych (osi poziomej) wykresu Kagi?
+4
+kolejną liczbę transakcji w zadanym okresie czasu, którym podlegają poszczególne walory (na osi rzędnych jest natomiast liczba walorów o danej liczbie transakcji)
+okres czasu między kolejnymi odwróceniami ceny waloru o zadany przedział procentowy lub cenowy (na osi rzędnych jest natomiast cena waloru)
+jednostkę waluty, w której wyraża się cenę waloru, np. dolar, euro, yen (na osi rzędnych jest natomiast czas kolejnych notowań)
+okres czasu między kolejnymi notowaniami ceny waloru, np. godzina, doba, tydzień, miesiąc albo rok (na osi rzędnych jest natomiast cena waloru)
+d
+
+Który z poniższych terminów NIE stanowi elementu zarządzania cyklem życia produktu (ang. product lifecycle management PLM)?
+4
+projektowanie wspomagane komputerowo (ang. computer aided design CAD)
+usługi faktoringowe wspomagane komputerowo (ang. computer aided factoring CAF)
+wytwarzanie wspomagane komputerowo (ang. computer aided manufacturing CAM)
+prace inżynierskie wspomagane komputerowo (ang. computer aided engineering CAE)
+b
+
+Prezentacja dokumentów jako obiektów w terenie:
+1
+krajobraz
+a
+
+Autor SOM (self-organizing map) (i autor WEBSOM?):
+1
+Teuvo Kohonen
+a
+
+Wykres mozaikowy:
+1
+dziedzina wielowymiarowe dyskretna i przeciwdziedzina jednowymiarowa
+a
