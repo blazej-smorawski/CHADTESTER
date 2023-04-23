@@ -328,7 +328,7 @@ rowniez dla uzytkownika / konsolowy / na serwerach
 rowniez dla uzytkownika / konsolowy / tylko na komputerach domowych
 rowniez dla uzytkownika / gui / na serwerach
 rowniez dla uzytkownika / gui / tylko na komputerach domowych
-8
+h
 
 (44)Serwera DNS nie mozna znalezc na Linuxie:
 4
@@ -589,4 +589,4 @@ DNS
 DHCP
 DFS
 NTFS
-3
+c
