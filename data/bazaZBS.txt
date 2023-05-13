@@ -1,0 +1,152 @@
+Bazowa lista CRL (Base Certificate Revocation List) określonego CA musi:
+3
+zawierać wszystkie odwołane certyfikaty wystawione przez dane CA
+zawierać wszystkie odwołane certyfikaty wystawione przez dane CA, których okres ważności jeszcze trwa
+być zaszyfrowana kluczem prywatnym danego CA
+b
+
+Zgodnie z obowiązującymi aktami prawnymi definicja Cyberprzestrzeni zawiera:
+3
+relacje adminstratora ze sprzętem sieciowym
+relacje z użytkownikami
+relacje publiczne
+b
+
+W jakim najkrótszym czasie możemy osiągnąć pełne bezpieczeństwo systemu IT:
+4
+no nie wiem, ciekawe
+około 48 godzin przy pełnym zaangażowaniu sił i środków
+około 30 dni, gdyż jest to bardzo pracochłonne
+jest to proces do którego możemy dążyć, a nie osiągnąć i trwać w nim
+d
+
+Proces monitorowania infrastruktury sieciowej pozwala na:
+4
+gromadzenie w sposób usystematyzowany informacji istotnych dla funkcjonowania sieci
+lokalizowanie wąskich gardeł i pojedynczych punktów awarii infrastrukutry
+identyfikowanie potencjalnych podatności bezpieczeństwa
+wszystkie powyższe
+d
+
+Wystąpienie incydentu bezpieczeństwa:
+3
+może być wywołane podatnością
+dotyczy wyłącznie zdarzeń, które mają niekorzystny wpływ na cyberbezpieczeństwo
+w określonych warunkach możemy zignorować (poprzez brak obsługi incydentu)
+a
+
+Protokół OCSP (Online Certificate Status Protocol):
+4
+pozwala na jednoznaczne potwierdzenie czy dany certyfikat może zostać użyty
+pozwala na weryfikację, czy dany certyfikat nie został odwołany
+umożliwia przeslanie klientowi listy odwołań certyfikatów (CRL)
+obsługuje żądania w trybie pełnym i różnicowym
+b
+
+Jakie protokoły mogą być stosowane do monitorowania infrastruktury sieciowej?
+3
+tylko SNMP
+wszystkie protokoły za pomocą których możemy uzyskać informację na temat funkcjonowania infrastruktury oraz świadczonych usług (m.in. SNMP, CDP, ICMP, https, ssh, ftp)
+nie ma takich protokołów elo
+b
+
+Wyzwalacze (ang. Triggers) stosowane w systemach monitorowania sieci to:
+3
+reguły uruchamiające predefiniowane zdarzenia (np. przesłanie informacji, uruchomienie skryptu) w przypadku przekroczenia wartości progowych danych
+narzędzia autoinstalacji oprogramowania agentowego
+opcje rozpoznawania/skanowania określonego segmentu sieciowego
+a
+
+Elementem opcjonalnym w realizacji AAA przez usługę RADIUS jest:
+4
+suplikant
+serwer dostępu do sieci
+serwer RADIUS
+serwer usług uwierzytelniania
+d
+
+Wskaż zdanie prawdziwe:
+4
+Diameter jest wstecznie kompatybilny z RADIUSem,
+Diameter wyparł RADIUSa jako standardowe rozwiązanie,
+Diameter jest usługą wykorzystującą protokół TCP, a RADIUS protokół UDP
+w przeciwieństwie do RADIUSa, Diamater zapewnia funkcjonalność rozliczania
+c
+
+Rozwiązanie PGP wykorzystuje
+4
+Certyfikaty X.509
+Listy CRL
+Hierarchiczny model zaufania
+Model zaufania typu User-centric (Web of Trust)
+d
+
+Protokół IpSEC ESP w trybie transportowym pozwala na:
+4
+ochronę poufności i intergralnośći przesyłanych pakietów IP wraz z ich nagłówkami
+ochronę integralności przesyłanych pakietów IP wraz z ich nagłówkami
+ochronę poufności pola danych przesyłanych pakietów IP
+ochronę poufności i integralności pola danych przesyłanych pakietów IP
+d
+
+Jednym z etapów analizy stanu bezpieczeństwa systemu informatycznego jest szacowanie ryzyka, które:
+3
+polega na identyfikacji potencjalnych ryzyk, zwłaszcza kluczowych
+stanowi kombinację prawdopodobieństwa wystąpienia zdarzenia niepożądanego i jego konsekwencji (ryzyko = prawdopodobieństwo wystąpienia x koszt)
+można wyłącznie zaakceptować lub przerzucić.
+b
+
+Całość procesu utworzenia ścieżki certyfikatów można (nie pogarszając poziomu bezpieczeńtwa) zlecić:
+4
+wyłącznie zaufanym serwerom z użyciem protokołu OSCP
+zaufanym lub niezaufanym serwerom z użyciem protokołu OSCP
+wyłącznie zaufanym serwerom z użyciem protokołu SCVP
+Zaufanym lub niezaufanym serwerom z użyciem protokołu SCVP
+d
+
+Ruch podlegający translacji NAT/PAT może być chroniony przy użyciu poniższego protokołu IPSec:
+4
+protokołu AH,
+protokołu ESP,
+protokołu AH przy zastosowaniu dodatkowego tunelowania ruchu IPSec w pakietach UDP,
+prokokołu ESP przy zastosowaniu dodatkowego tunelowania ruchu IPSec w pakietach UDP,
+d
+
+Całość procesu utworzenia i weryfikacji ścieżki certyfikatów można (nie pogarszając poziomu bezpieczeństwa) zlecić:
+4
+wyłącznie zaufanym serwerom z użyciem protokołu OSCP
+zaufanym lub niezaufanym serwerom z użyciem protokołu OSCP
+wyłącznie zaufanym serwerom z użyciem protokołu SCVP
+Zaufanym lub niezaufanym serwerom z użyciem protokołu SCVP
+c
+
+Protokół IPSec AH pozwala na:
+4
+ochronę poufności przesyłanych pakietów IP wraz z ich nagłówkami,
+ochronę integralności przesyłanych pakietów IP wraz z ich nagłówkami (za wyjątkiem pól zmiennych w toku standardowej komunikacji IP)
+ochronę poufności wyłącznie pola danych przesyłanych pakietów IP
+ochronę integralności wyłącznie pola danych przesyłanych pakietów IP
+b
+
+Proces monitorowania infrastruktury sieciowej powinien być realizowany:
+3
+wyłącznie na płaszczyźnie sprzętowej tj urządzeń i konfiguracji
+wyłącznie na płaszczyźnie obłusgiwanego ruchu i usług
+na wielu płaszczyznach np usług, ruchu, urządzeń, konfiguracji, bezpieczeństwa
+c
+
+Serwer Radius NIE JEST w stanie zapewnić funkcjonalności:
+4
+uwierzytelniania
+autoryzacji (nadawania uprawnień)
+rozliczania
+jest w stanie zapewnić wszystkie trzy funkcjonalnośc
+d
+
+Z perspektywy architektury RADIUS, za klienta uznajemy:
+4
+suplikanciczka
+serwer dostępu do sieci
+serwer radius
+serwer usług uwierzytelniania
+b
