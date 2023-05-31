@@ -1,0 +1,198 @@
+Styk sieci abonentów ruchomych z siecią abonentów stacjonarnym znajduje się na poziomie:
+4
+BTS
+BSC
+MSC
+GMSC
+d
+
+Podczas wywołania abonenta B sieci abonentów ruchomych powiadomienie o wywołaniu wysyłane jest do:
+4
+tego samego węzła komutacyjnego MSC
+innego węzła komutacyjnego MSC
+tego samego węzła komutacyjnego SCP
+innego węzła komutacyjnego SCP
+a
+
+Na jakim systemie osadzono system GSM:
+4
+PSTN
+ISDN
+ATM
+DMT
+b
+
+Wymienić skróty i nazwy podstawowych elementów funkcjonalnych sieci inteligentnej:
+4
+SMP - Service Management Point
+SCP - Service Control Point
+SSP - Service Switching Point
+Wszystkie
+d
+
+Oprogramowanie usługi zapisane w SCP jest:
+2
+interpretowane
+kompilowane
+a
+
+Jakość usługi należy do atrybutu:
+3
+przenoszenia informacji
+dostępu
+ogólne
+c
+
+UUS (User to User Signalling) jest usługą:
+3
+bazową
+teleusługą
+dodatkową
+c
+
+Pierwsza centrala automatyczna zostaje uruchomiona w:
+4
+Niemczech
+Szwecji
+USA
+Wielkiej Brytani
+c
+
+Cyfryzacja abonenckiej linii analogowej wprowadziła w niej kanały:
+4
+B
+B+D
+2B+D
+2b+2D
+c
+
+Czy modem zwiększa liczbę usług sieciowych:
+2
+tak
+nie
+b
+
+Na styku S mamy liczbę par przewodów:
+4
+1
+2
+3
+4
+b
+
+Na styku U mamy liczbę par przewodów:
+4
+1
+2
+3
+4
+a
+
+Na styku T mamy liczbę par przewodów:
+4
+1
+2
+3
+4
+b
+
+Typowo dla styku S można dołączyć liczbę aparatów:
+4
+2
+4
+8
+16
+c
+
+Rozwinąć skrót ATM CBR VBR:
+4
+Asynchronus Transfer Mode
+Constant Bit Rate
+Variable Bit Rate
+Wszystkie dobrze 
+d
+
+W klasycznej sieci IP stosuje się zasadę obsługi pakietów oznaczaną jako:
+5
+EF PHB
+AF PHB
+BE
+DiffServ
+IntServ
+c
+
+Czy w przypadku sieci IP QoS sprawdzane są parametry strumienia pakietów dostarczanego do sieci?
+2
+tak
+nie
+a
+
+Jaką liczbę klas i podklas obsługi aktualnie dopuszcza DiffServ:
+4
+3
+6
+10
+14
+d
+
+Aspekty komercyjne i użytkowe należą do atrybutu:
+3
+przenoszenia informacji
+dostępu
+ogólne
+c
+
+SUB (Sub-addressing) jest usługą:
+3
+bazową
+teleusługą
+dodatkową
+c
+
+Pierwsza rozmowa telefoniczna odbyła się w:
+4
+1863
+1876
+1906
+1914
+b
+
+Który z numerów stosowanych w sieci abonentów ruchomych jest identyfikowany w całej sieci telekomunikacyjnej:
+4
+MSISDN
+IMSI
+MSRN
+TMSI
+a
+
+Tworzenie oprogramowania usługi inteligentnej jest realizowane w:
+4
+SPP
+SCP
+SMP
+poza elemenatami funkcjonalnymi sieci IN
+d
+
+Ile wynosi długość nagłówka w ATM?
+4
+5
+10
+15
+20
+a
+
+W klasycznej sieci IP system kolejkowy jest typu:
+4
+FIFO
+WFQ
+PQ
+LIFO
+a
+
+W sieci IP QoS z IntServ zwalnianie zasobów następuje na życzenie:
+4
+abonenta A
+abonenta B
+po zakończeniu połączenia
+automatyzcnie po upływie ustalonego okresu czasu
+d
